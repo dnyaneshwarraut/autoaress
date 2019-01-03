@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: com.testRunners.RunnerTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 2, Skipped: 2, Time elapsed: 1.075 sec <<< FAILURE! - in com.testRunners.RunnerTest
+Given Enter Esct User Name rohan@testmail.com(| rohan@testmail.com | aress123$Z |)  Time elapsed: 0.016 sec  <<< ERROR!
+java.lang.RuntimeException: java.lang.NullPointerException
+Caused by: java.lang.NullPointerException
+
+| rohan@testmail.com | aress123$Z |  Time elapsed: 0.016 sec  <<< ERROR!
+java.lang.RuntimeException: java.lang.NullPointerException
+Caused by: java.lang.NullPointerException
+
